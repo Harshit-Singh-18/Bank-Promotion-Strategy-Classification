@@ -14,19 +14,6 @@ This project involves a comprehensive approach to machine learning model optimiz
 - **Hyperparameter Tuning:** Optimized Random Forest parameters using GridSearchCV.
 - **Performance Evaluation:** Achieved a maximum accuracy of 0.8432 with optimized parameters.
 
-## Installation
-
-To run this project, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/your-repo.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd your-repo
-    ```
-
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
