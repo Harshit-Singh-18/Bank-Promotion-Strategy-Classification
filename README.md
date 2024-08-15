@@ -26,14 +26,15 @@ To run this project, follow these steps:
     ```bash
     cd your-repo
     ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
-## Usage
+## Contributing
 
-To execute the project and evaluate the models, use the following command:
+Contributions are welcome! Please follow these steps:
 
-```bash
-python model_script.py
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Commit your changes.
+4. Push your branch to your fork.
+5. Create a pull request.
+
+
